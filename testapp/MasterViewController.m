@@ -1,7 +1,7 @@
 //
 //  MasterViewController.m
 //  testapp
-//
+//  Ender Özcan
 //  Created by Ender on 21/05/14.
 //  Copyright (c) 2014 mobilike. All rights reserved.
 //
@@ -14,6 +14,7 @@
     NSMutableArray *_objects;
 }
 @end
+
 
 @implementation MasterViewController
 
